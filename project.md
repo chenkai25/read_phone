@@ -71,6 +71,10 @@ lib/
     constants.dart
     ip_utils.dart
     file_utils.dart
+
+apps/                  # 应用入口目录
+modules/               # 业务模块目录
+packages/              # 基础功能目录（公共组件、工具库、基础设施等）
 ```
 
 ## Android 配置
